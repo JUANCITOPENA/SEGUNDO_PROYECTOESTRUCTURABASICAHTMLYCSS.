@@ -18,6 +18,8 @@ El proyecto utiliza elementos semánticos de HTML para organizar el contenido:
 - El `<aside>` se utiliza para contenido relacionado o secundario.
 - El `<footer>` contiene el pie de página.
 
+## LINK DEL PROYECTO: https://juancitopena.github.io/SEGUNDO_PROYECTOESTRUCTURABASICAHTMLYCSS./
+
 # CAPTURAS DE PANTALLA:
 
 ![image](captura0.png)
