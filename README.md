@@ -20,7 +20,7 @@ El proyecto utiliza elementos semánticos de HTML para organizar el contenido:
 
 # CAPTURAS DE PANTALLA:
 
-![image](PANTALLA.png)
+![image](captura0.png)
 
 ## Cómo Usar
 
